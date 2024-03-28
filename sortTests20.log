@@ -1,0 +1,15 @@
+COMMENT: Test for Array Sizes of 20
+
+START TIMING: MAIN
+|  START TIMING: Populate Array
+|  STOP TIMING: Populate Array 0.332625 ms
+|  START TIMING: Bubble Sort
+|  STOP TIMING: Bubble Sort 0.141042 ms
+|  START TIMING: Quick Sort
+|  STOP TIMING: Quick Sort 0.385166 ms
+|  START TIMING: Instrumented Bubble Sort
+|  STOP TIMING: Instrumented Bubble Sort 0.011666 ms
+|  START TIMING: Instrumented Quick Sort
+|  STOP TIMING: Instrumented Quick Sort 0.02275 ms
+STOP TIMING: MAIN 2.03675 ms
+TOTAL TIME: 2.047792 ms

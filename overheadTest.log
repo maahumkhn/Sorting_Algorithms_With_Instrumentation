@@ -1,0 +1,7 @@
+COMMENT: Instrumentation Overhead Test
+
+START TIMING: Main
+|  START TIMING: Loop
+|  STOP TIMING: Loop 0.18725 ms
+STOP TIMING: Main 0.391875 ms
+TOTAL TIME: 0.40225 ms
